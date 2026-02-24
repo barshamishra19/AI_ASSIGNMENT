@@ -71,7 +71,7 @@ Main entry point for the application.
 
 ## Submission Details
 
-* **Course Name:** Artificial Intelligence Lab
+* **Course Name:** Artificial Intelligence
 * **Project Title:** 4x4 Tic-Tac-Toe with Minimax and Alpha-Beta Pruning
 
 ## Conclusion
